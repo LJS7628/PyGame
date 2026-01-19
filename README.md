@@ -16,4 +16,5 @@ ___
 * 학생정보관리 (Student_Info_Management)
 * 선택 정렬 (SelectSort)
 ___
-
+### Pygame를 활용한 벽돌깨기 게임
+<img src="https://github.com/user-attachments/assets/395296c8-0d9e-414a-bea6-c3d1daf5adaa" width="70%" height="70%">
