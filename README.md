@@ -3,5 +3,5 @@
 
 > **학부 3학년 - Pygame를 활용한 벽돌깨기 게임** <br>
 ___
-### Pygame를 활용한 벽돌깨기 게임
+### [Pygame](https://github.com/LJS7628/PyGame/blob/main/BlockGame/block.py)를 활용한 벽돌깨기 게임
 <img src="https://github.com/user-attachments/assets/395296c8-0d9e-414a-bea6-c3d1daf5adaa" width="70%" height="70%">
